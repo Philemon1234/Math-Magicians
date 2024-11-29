@@ -10,7 +10,7 @@ function Calculator() {
           <button className="button">+/-</button>
           <button className="button">%</button>
           <button className="button operator">&divide;</button>
-
+   
           <button className="button">7</button>
           <button className="button">8</button>
           <button className="button">9</button>
